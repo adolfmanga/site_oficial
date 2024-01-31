@@ -1,11 +1,32 @@
-.header {
-    background-color: beige;
+.cabeçalho a {
+    background-color: black;
+    text-decoration: none;
+    color: MediumSpringGreen;
+    font-family: 'Times New Roman', Times, serif;
 }
-.article {
-    background-color: aquamarine;
+.artigo a {
+    background-color: DarkSlateGray;
+    color: MediumSpringGreen;
+    text-decoration: none;
+}
+
+.artigo {
+    background-color: DarkSlateGray;
+    color: MediumSpringGreen;
 }
 .fundo{
-    background-color: yellow;
+    background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 30px;
+}
+a {
+    color: plum:
+    text-decoration: none:
+}
+.cabeçalho {
+background-color: black;
+}
+.rodape {
+    background-color: Maroon;
+    font-size: 50px;
 }
