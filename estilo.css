@@ -3,7 +3,23 @@
     text-decoration: none;
     color: MediumSpringGreen;
     font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    feed
 }
+
+.sac a {
+display: flex;
+list-style: none;
+margin: 20px;
+color: green;
+feedback; color: white;
+
+}
+
+.navegacao {
+    display: flex;
+}
+
 .artigo a {
     background-color: DarkSlateGray;
     color: MediumSpringGreen;
@@ -25,8 +41,17 @@ a {
 }
 .cabeçalho {
 background-color: black;
+display: flex;
 }
 .rodape {
     background-color: Maroon;
     font-size: 50px;
+}
+main {
+    padding: 30px;
+   
+}
+.botao a {
+    color: brown;
+    background-color: greenyellow;
 }
