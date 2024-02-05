@@ -24,7 +24,7 @@
 }
 
 .cabeçalho {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(236, 25, 25);
 
 }
 .rodape {
@@ -44,11 +44,13 @@ main p {
 }
 
 .cabeçalho img {
-    width: 12%;
+    width: 90px;
     padding-top: 45px;
-    margin-top: 20px;
+    margin-top: 40px;
     padding-bottom: 10px;
-    padding-left: 860px;
+    padding-left: 300px;
+    padding-right: auto;
+
 }
 
 .menu a:hover {
@@ -99,9 +101,10 @@ border-radius: 70px;
 }
 
 * {
-box-sizing: border-box;
-}
-
+    box-sizing: border-box;
+    margin: 0;
+    }
+    
 textarea.campo {
     height: 150px;
     padding: 10px;
@@ -114,5 +117,7 @@ textarea.campo {
 .botao2 {
     border: none;
     border-radius: 10px;
-    
+}
+.mapa {
+    width: 100%;
 }
